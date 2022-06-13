@@ -1,6 +1,3 @@
-
-(https://github.com/anas-01/thecatapi/files/8892911/Horizon.Search.Engine.pdf)
-
 # Getting Started with Create React App
 
 
