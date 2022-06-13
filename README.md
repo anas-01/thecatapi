@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App]
 In the project directory, you can run:
 ### `npm start`
 
+Project can be viewed in your local browser using localhost:3000
+
 
 Home Page
 ![catapi screenshot](https://user-images.githubusercontent.com/71329612/173402881-dd899de2-7e78-4364-b4f1-9f9f42366b39.png)
