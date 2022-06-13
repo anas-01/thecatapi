@@ -21,7 +21,7 @@ export default class extends React.Component {
     fetch("https://api.thecatapi.com/v1/images/search", {
       headers: {
         "Content-Type": "application/json",
-        "x-api-key": "4bebae0d-0ec4-4787-8e77-8602741525af"
+        "x-api-key": "2f765529-8178-4f1d-a89d-a8ac2f889f1c"
       }
     })
       .then(data => data.json())
@@ -35,7 +35,7 @@ export default class extends React.Component {
     return (
       <div className="random">
         <div>
-          <button onClick={this.fetchRandomCat}>Get random cat!</button>
+          <button onClick={this.fetchRandomCat}>Get a random cat!</button>
         </div>
         <div>
           {this.state.loadingState !== STATUS_LOADED && (
