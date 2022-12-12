@@ -12,6 +12,6 @@ Gallery
 How to Run
 
 In the project directory:
-### `npm start`
+1. ### `npm start`
 
-### Open localhost:3000
+2. ### Open localhost:3000
