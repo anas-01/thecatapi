@@ -9,11 +9,9 @@ Gallery
 ![catapi 2](https://user-images.githubusercontent.com/71329612/173403547-23e03650-b42a-4f56-81df-fc104a158dac.png)
 
 
-# Getting Started with Create React App
+How to Run
 
-This project was bootstrapped with [Create React App]
-
-In the project directory, you can run:
+In the project directory:
 ### `npm start`
 
 ### Open localhost:3000
