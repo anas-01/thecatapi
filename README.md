@@ -11,7 +11,7 @@ Gallery
 
 How to Run
 
-In the project directory:
-1. ### `npm start`
+In the project directory type command:
+1. `npm start`
 
-2. ### Open localhost:3000
+2.  Open localhost:3000 in your browser
