@@ -18,10 +18,10 @@ export default class extends React.Component {
     this.setState({
       loadingState: STATUS_FETCHING
     });
-    fetch("https://api.thecatapi.com/v1/images/search", {
+    fetch("https://api.thecatapi.com/v1/images/search", {   // API LINK
       headers: {
         "Content-Type": "application/json",
-        "x-api-key": "2f765529-8178-4f1d-a89d-a8ac2f889f1c"
+        "x-api-key": "2f765529-8178-4f1d-a89d-a8ac2f889f1c" // API KEY
       }
     })
       .then(data => data.json())
