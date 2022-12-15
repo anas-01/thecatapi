@@ -15,3 +15,5 @@ In the project directory type command:
 1. `npm start`
 
 2.  Open localhost:3000 in your browser
+
+3. Done!
